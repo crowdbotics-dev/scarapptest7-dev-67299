@@ -1,0 +1,3 @@
+rootProject.name = 'scarapptest7_dev_67299'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
